@@ -24,8 +24,7 @@ p{
 }
 #div-aliegn{
     text-align: center;
-}    
-
+}   
 .link-tab{
     text-decoration: none;
     background-image: linear-gradient(orange, tomato);
@@ -53,6 +52,17 @@ p{
     padding: 15px;
     border-radius: 5%;
     margin-left: 1.5%;
-    margin-right: 1.5%;
+    margin-right: 1.5%;   
+}
+.sec-four-div-boxing{
+    box-shadow: 10px 10px 30px gray;
+    border-radius: 10px;
+    margin: 10%;
     
+    width: 80%;
+    justify-content: space-between;
+    justify-content: space-around;
+    
+    
+
 }
