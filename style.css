@@ -14,9 +14,13 @@ h2{
 p{
     padding-bottom: 10% ;
 }
-.div-padding{
+.sec-one-div-padding{
     padding-top: 10% ;
     padding-left: 5%;
+}
+.sec-three-div-padding{
+    padding: 5% ;
+
 }
 #div-aliegn{
     text-align: center;
@@ -32,7 +36,10 @@ p{
 }
 .div-width{
     width: 50%;
-} 
+}
+.img-width{
+    width: 100%;
+}
 .sec-one{
     padding-bottom: 10%;
 }
@@ -40,4 +47,12 @@ p{
     background-image: url(images/shapes/7.png);
     background-repeat: no-repeat;
     margin-bottom: 10%;
+}
+.sec-three-div-boxing{
+    box-shadow: 10px 10px 30px gray;  
+    padding: 15px;
+    border-radius: 5%;
+    margin-left: 1.5%;
+    margin-right: 1.5%;
+    
 }
