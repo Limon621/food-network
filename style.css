@@ -35,7 +35,7 @@ p{
     width: 100%;
 }
 .sec-one-div-padding{
-    padding-top: 10% ;
+    padding-top: 10%;
     padding-left: 5%;
 }
 .sec-one{
@@ -66,6 +66,17 @@ p{
 }
 footer{
     text-align: center;
-    background-color: black;
+    background-color: rgb(14, 13, 13);
     color: white;
+}
+.sec-five{
+    font-family: 'Encode Sans SC', sans-serif;
+    text-align:end;
+    color: white;
+    background-image: url(images/shapes/food-meal-dark-table.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 80%;
+    margin-bottom: 10%;
+    padding: 20%;   
 }
