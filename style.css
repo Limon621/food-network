@@ -17,17 +17,6 @@ h2{
 p{
     padding-bottom: 10% ;
 }
-.sec-one-div-padding{
-    padding-top: 10% ;
-    padding-left: 5%;
-}
-.sec-three-div-padding{
-    padding: 5% ;
-
-}
-#div-aliegn{
-    text-align: center;
-}   
 .link-tab{
     text-decoration: none;
     background-image: linear-gradient(orange, tomato);
@@ -36,11 +25,18 @@ p{
     border-radius: 20px;
     padding: 10px 15px;
 }
+#div-aliegn{
+    text-align: center;
+}   
 .div-width{
     width: 50%;
 }
 .img-width{
     width: 100%;
+}
+.sec-one-div-padding{
+    padding-top: 10% ;
+    padding-left: 5%;
 }
 .sec-one{
     padding-bottom: 10%;
@@ -49,6 +45,9 @@ p{
     background-image: url(images/shapes/7.png);
     background-repeat: no-repeat;
     margin-bottom: 10%;
+}
+.sec-three-div-padding{
+    padding: 5% ;
 }
 .sec-three-div-boxing{
     box-shadow: 10px 10px 30px gray;  
